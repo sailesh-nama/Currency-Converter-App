@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Monnaie Converter</string>
+    <string name="a">Enter the amount:</string>
+    <string name="b"> </string>
+    <string name="c">From</string>
+    <string name="d">To</string>
+    <string name="e">Convert</string>
+    <string name="f">- App by Sailesh</string>
+    <string name="g">Monnaie Converter</string>
+</resources>
